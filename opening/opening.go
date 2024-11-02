@@ -4,7 +4,7 @@ package opening
 import (
 	"bytes"
 
-	"github.com/notnil/chess"
+	"github.com/grasparv/chess/v2"
 )
 
 // A Opening represents a specific sequence of moves from the staring position.

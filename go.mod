@@ -1,4 +1,4 @@
-module github.com/notnil/chess
+module github.com/grasparv/chess/v2
 
 go 1.14
 

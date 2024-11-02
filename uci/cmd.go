@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/notnil/chess"
+	"github.com/grasparv/chess/v2"
 )
 
 // Cmd is a UCI compliant command

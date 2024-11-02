@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	svg "github.com/ajstarks/svgo"
-	"github.com/notnil/chess"
-	"github.com/notnil/chess/image/internal"
+	"github.com/grasparv/chess/v2"
+	"github.com/grasparv/chess/v2/image/internal"
 )
 
 // SVG writes the board SVG representation into the writer.
